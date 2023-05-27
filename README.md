@@ -9,3 +9,6 @@ CHARACTERS :- </br>
 </br>
 PLAYER 1 :One of the player is a stickman which can walk around in the screen and also jump around and when the particular key is pressed the Warrior can attack. The warrior can  be controlled by using the W,A,D keys for movement and also we can use the space button to jump. We can control the attack by using R.</br>
 PLAYER 2 :One of the player is a wizard which can walk around in the screen just like the Player1 and also jump around and when the particular key is pressed the Wizard can attack. The wizard can  be controlled by using the arrow( right ,left ,up ) keys for movement and also we can use the space button to jump. We can control the attack by using NUM1.</br>
+</br>
+Libraries used</br>
+pygame
